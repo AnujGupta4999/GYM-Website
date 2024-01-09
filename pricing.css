@@ -1,0 +1,49 @@
+.card-body{
+    background-color: #212121;
+    color:#fff;
+    margin-top: 30px;
+}
+.card1{
+    background-color:#00ffb6;
+    border:1px solid #00ffb6;
+  }
+  
+  /* .card1 {
+    background:#00ffb6 !important
+  } */
+  
+  
+  
+  
+  
+  .card2{
+    background:#00C9FF;
+    border:1px solid #00C9FF;
+  }
+  
+  /* .card2:hover .list-group-item{
+    background:#00C9FF !important
+  } */
+  
+  
+  .card3{
+    background:#ff95e9;
+    border:1px solid #ff95e9;
+  }
+  
+  /* .card3:hover .list-group-item{
+    background:#ff95e9 !important
+  }
+   */
+  
+  /* .card:hover .btn-outline-dark{
+    color:white;
+    background:#212529;
+  } */
+  .pricing{
+      background-image: url("https://i.pinimg.com/originals/77/a7/86/77a78633604cce24717dc9735b013725.jpg") !important;
+      background-size: cover;
+      height:98vh;
+      background-attachment: fixed;
+  }
+  
