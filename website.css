@@ -1,0 +1,176 @@
+*{
+    box-sizing:border-box;
+}
+#header{
+ margin-left:16%;
+ margin-top: 20%;
+}
+#header-section{
+    /* background-image: url(https://wallpaperaccess.com/full/1087625.jpg); */
+    /* background-image:url(background\ fitness\ img.jpg);
+       height:700px;9
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+     */
+     background-image: url(https://i.pinimg.com/originals/77/a7/86/77a78633604cce24717dc9735b013725.jpg);
+     background-size: cover;
+    height:700px;
+ background-attachment: fixed;
+ 
+}
+ 
+#h1-header{
+    color:white;
+    margin-bottom:1rem;
+}
+#h2-header{
+    color: chartreuse;
+    margin-bottom:1rem;
+}
+#btn1{
+    background-color: chartreuse;
+    margin-top:1rem;
+    box-shadow:0px 0px 5px #fff;
+}
+
+#btn1:hover{
+    box-shadow:0px 0px 20px #fff;
+}
+#img-l{
+    height:25%;
+    padding-top:200px;
+    padding-left:110px;
+   
+}
+
+.line1{
+    background-color:chartreuse;
+    height:6px;
+    
+}
+#about{
+     background-image: url(https://i.pinimg.com/originals/77/a7/86/77a78633604cce24717dc9735b013725.jpg);
+    background-size: cover;
+   /* height:100%; */
+   height:100vh;
+background-color: black;
+background-attachment: fixed;
+}
+.line-small1{
+    height:5px;
+    background-color: chartreuse;
+    width:80px;
+}
+
+.intro{
+    color:white;
+}
+
+#line-small{
+    background-color:chartreuse;
+}
+#img-about{
+    padding-left: 1%;
+    min-height:300px;
+    max-height: 400px;
+    width:100%;
+}
+.carousel-item img{
+    max-height:90vh;
+}
+
+#features1 {
+    background-image: url("https://i.pinimg.com/originals/77/a7/86/77a78633604cce24717dc9735b013725.jpg");
+    background-size: cover;
+    height:98vh;
+    background-attachment: fixed;
+}
+.text-feature{
+    padding-top: 12%;
+}
+.img-feature{
+    MIN-height:400px;
+    min-width:100px;
+    padding-left:10px;
+    margin-top:125px;
+    border-radius:10px;
+    border:5px solid chartreuse;
+}
+.h1-feature{
+    color:white;
+    font-style: italic;
+}
+.form{
+    background-image: url("https://i.pinimg.com/originals/77/a7/86/77a78633604cce24717dc9735b013725.jpg");
+    background-size: cover;
+    height:98vh;
+    background-attachment: fixed;
+}
+.img-form{
+    margin-top: 110px;
+    margin-left:1px;
+    min-height:400px;
+    max-width:500px;
+    border-radius: 10px;
+    border:5px solid chartreuse;
+}
+
+#contact-button{
+    background-color: chartreuse;
+    box-shadow: 0px 0px 5px #fff;
+   font-weight:600;   
+}
+
+#contact-button:hover{
+    box-shadow: 0px 0px 20px #fff;
+    
+}
+
+
+
+.img-icon{
+    margin-top:50px;
+    font-size:60px;
+    margin-bottom:30px;
+    color:white;
+}
+.img-counter{
+    background-image:  url(https://s3.envato.com/files/277987415/DSC_0357.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    height:50vh;
+    min-width:100%;
+}
+
+.counter-section{
+    font-size:50px;
+    color: rgb(0 255 43);
+}
+#a-footer{
+
+    font-size:50px;
+  color: rgb(0 255 43);
+ 
+}
+.icons1{
+    margin-top:50px;
+    margin-bottom:35px;
+}
+
+.footer-fluid{
+    background-image:linear-gradient(to left,rgb(0, 0, 0), rgba(255, 255, 255, 0)),url(https://st3.depositphotos.com/9527076/12784/i/950/depositphotos_127843894-stock-photo-fitness-or-bodybuilding-background-old.jpg);
+   background-size:cover;
+   background-attachment:fixed;
+   height:35vh;
+   min-width: 100%;
+}
+.copy{
+    font-size:25px;
+    color:white;
+}
+.btn-a{
+    color:rgb(255, 255, 255);
+}
+
